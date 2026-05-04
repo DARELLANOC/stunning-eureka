@@ -119,7 +119,7 @@ Available overrides:
 ### Site-specific Weibull parameters
 
 Open `wind_params.py` and replace the placeholder `k` and `c` values with the results
-from your Section 3.1 Weibull fit (MOM, EPF, and MLE methods):
+from your Weibull fit (MOM, EPF, and MLE methods):
 
 ```python
 WEIBULL_PARAMS = {
